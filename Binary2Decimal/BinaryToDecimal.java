@@ -1,3 +1,5 @@
+package Binary2Decimal;
+
 import java.util.Scanner;
 
 public class BinaryToDecimal {
